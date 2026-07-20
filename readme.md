@@ -1,14 +1,16 @@
 # Competitive Programming Cheatsheet
 
-Quick-reference snippets for coding interviews and competitive programming. Each language covers the same topics: language mechanics, collections, and common algorithms.
-
+Quick-reference coding snippets for interviews and competitive programming. Each language includes the same core topics: language fundamentals, data structures, collections, and common algorithms.
 ## How
 
-This cheatsheet was built while solving LeetCode-style problems across multiple languages. It only contains syntax and patterns that came up while solving actual problems, keeping it a small, high-frequency subset rather than a comprehensive reference. Recording these snippets also helped commit them to memory.
-
+This cheatsheet was created while solving LeetCode-style problems in multiple programming languages. It includes only the syntax, patterns, and techniques encountered during real problem-solving, making it a concise, high-frequency reference rather than a comprehensive language guide. Documenting these snippets also reinforced my understanding and improved long-term retention.
 ## Why
 
-Following the [rule of least power](https://en.wikipedia.org/wiki/Rule_of_least_power), Python is listed first as the primary language due to its concise syntax that resembles pseudocode and its rich standard library, making it the most expressive choice for interviews. Java, C#, and JavaScript are included as alternatives with their own strengths: Java and C# offer strong typing and predictable performance, while JavaScript provides fast iteration and expressive built-ins. When runtime performance matters, compiled languages like Java or C# can be significantly faster than Python on competitive programming judges.
+Following the [Rule of Least Power](https://en.wikipedia.org/wiki/Rule_of_least_power), Python is presented first as the primary language because its concise, pseudocode-like syntax and rich standard library make it highly expressive and well-suited for coding interviews.
+
+Java, C#, and JavaScript are included as alternative implementations, each with distinct advantages. Java is a strong choice for competitive programming and production systems that require predictable performance, robust tooling, and efficient memory management. C# offers similar benefits while providing a modern language design and an extensive .NET ecosystem, making it ideal for enterprise and backend development. JavaScript is useful for rapid prototyping, full-stack web development, and interviews where familiarity with the web ecosystem is beneficial.
+
+When execution speed and memory efficiency are critical, compiled languages such as Java and C# generally outperform Python on competitive programming judges. Python remains an excellent default for interviews because it minimizes implementation overhead, while Java or C# may be preferable for performance-constrained contests or when the target role primarily uses those languages.
 
 ## Languages
 
